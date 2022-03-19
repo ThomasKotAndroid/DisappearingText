@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DisappearingText</string>
+    <string name="no_value_string">No Value</string>
+    <string name="convert_lbs_to_kg">Convert LBS TO KG</string>
+</resources>
